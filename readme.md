@@ -1,4 +1,4 @@
 # txt to csv parser
-Change filename to the file name you
-Usage ruby import.rb
+1. Change filename to the file name you
+2. Usage ruby import.rb
 
